@@ -4,6 +4,8 @@
 https://en.wikipedia.org/wiki/MISTY1
 http://tools.ietf.org/search/rfc2994
 
+Note: This cipher should not be used: https://eprint.iacr.org/2015/746
+
 */
 package misty1
 
